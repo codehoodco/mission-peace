@@ -2,7 +2,7 @@ package co.codehood.ds;
 
 import java.util.*;
 
-public class BubbleSort extends Object {
+public class BubbleSort {
 
     public static void main(String[] args) {
         System.out.println(doBubbleSort(Arrays.asList(9, 2, 6, 4, 0, 2, 6, 4, 8)));
